@@ -3,7 +3,7 @@ All the TL;DRs in one place
 # Up & Going
 * [Chapter 1: Into Programming](up%20%26%20going/ch1.md#review)
 * [Chapter 2: Into JavaScript](up%20%26%20going/ch2.md#review)
-* [Chapter 3: Into YDKJS](u%20%26%20going/ch3.md#review)
+* [Chapter 3: Into YDKJS](up%20%26%20going/ch3.md#review)
 
 # Scope & Closures
 * [Chapter 1: What is Scope?](scope%20%26%20closures/ch1.md#review-tldr)
